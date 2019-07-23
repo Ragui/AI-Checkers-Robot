@@ -1,0 +1,11 @@
+Authors: Ragui Halim and Brennan Fradelis
+
+This is the latest version, version 1.0, of our AI Checkers Robot.
+The "src" directory contains the AI player, the machine vision, and the arm controller code.
+
+To install, please go to the "src" directory and type make. 
+To start the Robot, please type ./checkers.
+
+Please refer to the Poster in the "doc" directory to get a better understanding of our project.
+		
+This version is released on March 13, 2019. 
